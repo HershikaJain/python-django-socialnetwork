@@ -99,7 +99,7 @@ Request:
 {
  "name": "John Doe",
  "mobileNo": "1234567890",
- "email": "johndoe@example.com",
+ "email": "jhershika29@example.com",
  "password": "password123"
 }
 Response:
